@@ -7,3 +7,5 @@ Heii Flo :)
 2. mach s index.html dokument uf dim PC uf
 
 3. probiers us idem du t' Farb vom Hindergrund wechslisch
+
+*clone => anders wort für download
