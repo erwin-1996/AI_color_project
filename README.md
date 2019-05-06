@@ -8,4 +8,4 @@ Heii Flo :)
 
 3. probiers us idem du t' Farb vom Hindergrund wechslisch
 
-*clone => anders wort für download
+*clone => anders wort für download (grüene button obe rechts)
