@@ -2,7 +2,7 @@
 
 Heii Flo :)
 
-1. clone* dir die dokument uf din PC
+1. *clone dir die dokument uf din PC
 
 2. mach s index.html dokument uf dim PC uf
 
