@@ -1,0 +1,13 @@
+body {
+	margin: 20px;
+	font-family: tahoma;
+	font-size: 18px;
+}
+
+.div {
+	width: 200px;
+	height: 200px;
+	background-color: grey;
+	text-align: center;
+	padding-top: 50px;
+}
