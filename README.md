@@ -1,7 +1,5 @@
 # AI_color_project
 
-Heii Flo :)
-
 1. *clone dir die dokument uf din PC
 
 2. mach s **index.html** dokument uf dim PC uf
